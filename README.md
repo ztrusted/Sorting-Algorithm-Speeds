@@ -4,6 +4,7 @@ This is a small project to see the Sorting Algorithm and their Speeds in Python 
 
 
 ## Results
+### Array Length = 2000; Random
 ![Logo](https://i.ibb.co/JHnG0Tb/Sorting-Algorithm-Speeds.png)
 
 |  Algorithm   |  Worst   | Average |   Best  |   First   |   Second  |   Third   |   Fourth  |   Fith   |
