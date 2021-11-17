@@ -16,6 +16,11 @@ This is a small project to see the Sorting Algorithm and their Speeds in Python 
 |Radix Sort    |1600,97 ms|1414,34 ms|1327,79 ms|24,93 ms   | 1401,46 ms | 1339,78 ms | 1348,78 ms | 1327,79 ms|
 
 
+## Todo
+- [X] Create Visualisation
+- [ ] Different Array Length Comparision
+- [ ] Behavior With Optimization
+
 ## Tech Stack
 
 **Language:** Python 3.9.10
